@@ -1,0 +1,11 @@
+.mainContainer {
+  background-color: #ffc2a0;
+  padding: 75px;
+  text-align: center;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 15px;
+}

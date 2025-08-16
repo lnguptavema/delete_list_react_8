@@ -1,0 +1,15 @@
+.flexContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  color: #ff0b37;
+  border: #ff0b37 2px solid;
+  border-radius: 15px;
+  width: 70px;
+  height: 40px;
+}
+p {
+  font-size: 18px;
+}
